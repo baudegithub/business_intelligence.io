@@ -15,8 +15,8 @@ Objectives
 3.	Marketing Effectiveness Evaluation: Analyze the return on investment (ROI) of various marketing campaigns to ensure resources are being allocated effectively for maximum impact.
 4.	Actionable Insights and Recommendations: Provide actionable insights based on data analysis, including strategies to improve product performance, customer satisfaction, and marketing effectiveness.
 Key Findings
-
-1. **Sales Trends**
+# Key Insights
+ 1. **Sales Trends**
 - Product A sales declined by 18% over the past 12 months, contributing to an overall downward trend in quarterly sales.
 - Product B demonstrated consistent growth, while Product C showed slight fluctuations but remained stable overall.
 
@@ -30,7 +30,7 @@ Key Findings
 4. **Growth & ROI Metrics**
 - Year-on-year growth for Product B outperformed the other two products by 15%.
 - Marketing ROI efficiency (ROI per dollar spent) highlights missed opportunities to scale more effective campaigns while optimizing spend for underperforming ones.
-Recommendations
+# Recommendations
 
 1. **Improve Product A:** Address quality concerns by gathering more granular customer feedback and implementing product design improvements.
 2. **Optimize Marketing Budgets:** Reallocate spending from low-performing campaigns to more efficient ones, such as Campaign B.
