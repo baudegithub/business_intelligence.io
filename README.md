@@ -2,10 +2,10 @@
 This repository contains a project that analyses sales , marketing and customer satisfaction  data to provide insights and recommendations to the maketing and product team for better decision making
 
 
-**Executive Summary**
+# Executive Summary
 
 **Background and objectives**
-**Background**
+ **Background**.
 This  PROJECT  analyzes the performance of three products (Product A, Product B, and Product C) in terms of sales, customer feedback, and the effectiveness of marketing campaigns. The company has been facing varying levels of success across its product range, and the marketing spend has been distributed differently among the products. By examining these factors, the company aims to understand the drivers of success and areas for improvement.
 Objectives
 
@@ -19,15 +19,14 @@ Key Findings
 1. **Sales Trends**
 - Product A sales declined by 18% over the past 12 months, contributing to an overall downward trend in quarterly sales.
 - Product B demonstrated consistent growth, while Product C showed slight fluctuations but remained stable overall.
-- 
+
 2. **Customer Feedback**
 - Product A has the lowest average customer rating (3.2/5), with common feedback pointing to product quality and usability issues.
 - Customer satisfaction (ratings weighted by reviews) is highest for Product B, aligning with its strong sales performance.
-- 
 3. **Marketing Effectiveness**
 - Campaigns with the highest marketing spend (Campaign A) delivered the lowest ROI (0.3), indicating inefficiencies in resource allocation.
 - Campaign B achieved the best ROI (1.2), despite moderate spending levels, suggesting higher campaign effectiveness.
-- 
+  
 4. **Growth & ROI Metrics**
 - Year-on-year growth for Product B outperformed the other two products by 15%.
 - Marketing ROI efficiency (ROI per dollar spent) highlights missed opportunities to scale more effective campaigns while optimizing spend for underperforming ones.
@@ -43,8 +42,7 @@ Recommendations
 - Conduct A/B testing for marketing initiatives to identify scalable strategies.
 - Launch a customer survey focused on enhancing satisfaction for all product lines.
 
-- 
-Visualizations: 
+# Visualizations: 
 1)Sales Trends
  
 ![image](https://github.com/user-attachments/assets/06a3de5c-88a8-4cfa-9a1b-53a6c0224f35)
